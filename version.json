@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "apkUrl": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.1/SkiaApp.apk",
+  "changelog": "Primera prueba de actualización desde GitHub",
+  "mandatory": false
+}
