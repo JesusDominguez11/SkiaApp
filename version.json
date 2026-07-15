@@ -1,5 +1,6 @@
 {
   "version": "1.0.3",
+  "build":3,
   "apkUrl": "https://github.com/JesusDominguez11/SkiaApp/releases/download/1/com.companyname.skiaapp-Signed1.0.3.apk",
   "changelog": "prueba de instalacion",
   "mandatory": false
